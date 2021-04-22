@@ -1,0 +1,16 @@
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\ACM.BL.Test.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\ACM.BL.Test.pdb
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\ACM.BL.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\ACM.BL.pdb
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Working\courses\ACM\Tests\ACM.BL.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Working\courses\ACM\Tests\ACM.BL.Test\obj\Debug\ACM.BL.Test.csprojAssemblyReference.cache
+C:\Working\courses\ACM\Tests\ACM.BL.Test\obj\Debug\ACM.BL.Test.csproj.CoreCompileInputs.cache
+C:\Working\courses\ACM\Tests\ACM.BL.Test\obj\Debug\ACM.BL.Test.csproj.CopyComplete
+C:\Working\courses\ACM\Tests\ACM.BL.Test\obj\Debug\ACM.BL.Test.dll
+C:\Working\courses\ACM\Tests\ACM.BL.Test\obj\Debug\ACM.BL.Test.pdb
